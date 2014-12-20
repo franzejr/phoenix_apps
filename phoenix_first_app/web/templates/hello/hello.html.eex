@@ -1,0 +1,6 @@
+<div class="row marketing">
+  <div class="col-lg-6">
+    <h1><%= title %></h1>
+    <h4><%= @messenger %></h4>
+  </div>
+</div>
