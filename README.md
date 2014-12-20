@@ -5,7 +5,7 @@ Sample applications using http://www.phoenixframework.org/
 
 # Applications
 
-### First App
+[First App] (phoenix_first_app)
 
 - Using templates and how to change them. 
 - Implementing a simple controller and sending messages to View
