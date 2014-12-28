@@ -20,7 +20,7 @@ Sample applications using http://www.phoenixframework.org/
 
 # Executing
 
-```elixir
+```shell
 mix do deps.get, compile
 mix phoenix.start
 ```
