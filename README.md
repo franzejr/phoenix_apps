@@ -17,3 +17,10 @@ Sample applications using http://www.phoenixframework.org/
 - Learn basic elixir and phoenix framework.
 - Provide more example apps using the Phoenix Framework.
 - Have fun!
+
+# Executing
+
+```elixir
+mix do deps.get, compile
+mix phoenix.start
+```
