@@ -10,6 +10,11 @@ Sample applications using http://www.phoenixframework.org/
 - Using templates and how to change them. 
 - Implementing a simple controller and sending messages to View
 - Creation of a Template method and using it on the view
+ 
+
+##### [Hello Phoenix] (hello_phoenix)
+
+- Hello Phoenix 1.1
 
 
 # Goals
@@ -22,5 +27,5 @@ Sample applications using http://www.phoenixframework.org/
 
 ```shell
 mix do deps.get, compile
-mix phoenix.start
+mix phoenix.server
 ```
